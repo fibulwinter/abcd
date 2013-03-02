@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lesson>
+    <Title>Animals</Title>
+    <Aspects>GROUP</Aspects>
+    <Memorials>
+        <Memorial>bat</Memorial>
+        <Memorial>bear</Memorial>
+        <Memorial>bird,bird</Memorial>
+        <Memorial>butterfly</Memorial>
+        <Memorial>cat,cat</Memorial>
+        <Memorial>chick,bird</Memorial>
+        <Memorial>clam</Memorial>
+        <Memorial>cow</Memorial>
+        <Memorial>crow,bird</Memorial>
+        <Memorial>deer</Memorial>
+        <Memorial>dog</Memorial>
+        <Memorial>fish</Memorial>
+        <Memorial>frog</Memorial>
+        <Memorial>goose,bird</Memorial>
+        <Memorial>hen,bird</Memorial>
+        <Memorial>horse</Memorial>
+        <Memorial>kitten,cat</Memorial>
+        <Memorial>mice,mice</Memorial>
+        <Memorial>owl,bird</Memorial>
+        <Memorial>pig</Memorial>
+        <Memorial>rabbit</Memorial>
+        <Memorial>rat,mice</Memorial>
+        <Memorial>snail</Memorial>
+        <Memorial>snake</Memorial>
+        <Memorial>tiger</Memorial>
+        <Memorial>toad,frog</Memorial>
+        <Memorial>zebra</Memorial>
+        <Memorial>jellyfish</Memorial>
+        <Memorial>ladybug</Memorial>
+        <Memorial>donkey</Memorial>
+        <Memorial>giraffe</Memorial>
+    </Memorials>
+</Lesson>

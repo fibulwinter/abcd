@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lesson>
+    <Title>Sky</Title>
+    <Aspects>GROUP</Aspects>
+    <Memorials>
+        <Memorial>sun</Memorial>
+        <Memorial>fog</Memorial>
+        <Memorial>hill</Memorial>
+        <Memorial>lake</Memorial>
+        <Memorial>moon</Memorial>
+        <Memorial>rain</Memorial>
+        <Memorial>river</Memorial>
+        <Memorial>road</Memorial>
+        <Memorial>rock</Memorial>
+        <Memorial>snow</Memorial>
+        <Memorial>star</Memorial>
+        <Memorial>tree</Memorial>
+        <Memorial>grass</Memorial>
+        <Memorial>sea</Memorial>
+        <Memorial>cave</Memorial>
+        <Memorial>island</Memorial>
+    </Memorials>
+</Lesson>

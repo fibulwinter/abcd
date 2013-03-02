@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lesson>
+    <Title>Toys</Title>
+    <Aspects>GROUP</Aspects>
+    <Memorials>
+        <Memorial>ball</Memorial>
+        <Memorial>doll</Memorial>
+        <Memorial>gun</Memorial>
+        <Memorial>bike</Memorial>
+        <Memorial>flag</Memorial>
+        <Memorial>game</Memorial>
+        <Memorial>horn</Memorial>
+        <Memorial>mask</Memorial>
+        <Memorial>drum</Memorial>
+        <Memorial>brush</Memorial>
+        <Memorial>bubble</Memorial>
+        <Memorial>cannon</Memorial>
+        <Memorial>playground</Memorial>
+        <Memorial>rifle</Memorial>
+        <Memorial>skate</Memorial>
+        <Memorial>swing</Memorial>
+        <Memorial>tank</Memorial>
+        <Memorial>balloon</Memorial>
+        <Memorial>bead</Memorial>
+    </Memorials>
+</Lesson>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lesson>
+    <Title>Furniture</Title>
+    <Aspects>GROUP</Aspects>
+    <Memorials>
+        <Memorial>bed</Memorial>
+        <Memorial>can</Memorial>
+        <Memorial>fan</Memorial>
+        <Memorial>jar</Memorial>
+        <Memorial>pan</Memorial>
+        <Memorial>pot</Memorial>
+        <Memorial>tub</Memorial>
+        <Memorial>crib</Memorial>
+        <Memorial>desk</Memorial>
+        <Memorial>hose</Memorial>
+        <Memorial>sink</Memorial>
+        <Memorial>sofa</Memorial>
+        <Memorial>stove</Memorial>
+        <Memorial>table</Memorial>
+        <Memorial>bath</Memorial>
+        <Memorial>hook</Memorial>
+        <Memorial>lock</Memorial>
+        <Memorial>pail</Memorial>
+        <Memorial>rake</Memorial>
+        <Memorial>sack</Memorial>
+        <Memorial>soap</Memorial>
+        <Memorial>spoon</Memorial>
+        <Memorial>tray</Memorial>
+        <Memorial>vase</Memorial>
+        <Memorial>toothpaste</Memorial>
+        <Memorial>cup</Memorial>
+        <Memorial>mailbox</Memorial>
+    </Memorials>
+</Lesson>

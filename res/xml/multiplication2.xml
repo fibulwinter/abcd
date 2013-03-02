@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lesson>
+    <Title>Multiplication 2</Title>
+    <Aspects>ANSWER,GROUP</Aspects>
+    <Shuffle/>
+    <Memorials>
+        <Memorial>5*7,35,35</Memorial>
+        <Memorial>9*6,54,54</Memorial>
+        <Memorial>7*2,14,14</Memorial>
+        <Memorial>8*5,40,40</Memorial>
+        <Memorial>2*9,18,18</Memorial>
+        <Memorial>4*2,8,8</Memorial>
+        <Memorial>2*2,4,4</Memorial>
+        <Memorial>2*6,12,12</Memorial>
+        <Memorial>7*9,63,63</Memorial>
+        <Memorial>5*3,15,15</Memorial>
+        <Memorial>2*3,6,6</Memorial>
+        <Memorial>4*5,20,20</Memorial>
+        <Memorial>9*5,45,45</Memorial>
+        <Memorial>2*4,8,8</Memorial>
+        <Memorial>9*8,72,72</Memorial>
+        <Memorial>2*5,10,10</Memorial>
+        <Memorial>5*4,20,20</Memorial>
+        <Memorial>6*2,12,12</Memorial>
+        <Memorial>5*8,40,40</Memorial>
+        <Memorial>5*6,30,30</Memorial>
+        <Memorial>2*7,14,14</Memorial>
+        <Memorial>6*5,30,30</Memorial>
+        <Memorial>9*9,81,81</Memorial>
+        <Memorial>3*9,27,27</Memorial>
+        <Memorial>5*9,45,45</Memorial>
+        <Memorial>4*9,36,36</Memorial>
+        <Memorial>2*8,16,16</Memorial>
+        <Memorial>7*5,35,35</Memorial>
+        <Memorial>9*2,18,18</Memorial>
+        <Memorial>5*5,25,25</Memorial>
+        <Memorial>5*2,10,10</Memorial>
+        <Memorial>3*5,15,15</Memorial>
+        <Memorial>9*3,27,27</Memorial>
+        <Memorial>6*9,54,54</Memorial>
+        <Memorial>8*2,16,16</Memorial>
+        <Memorial>9*4,36,36</Memorial>
+        <Memorial>8*9,72,72</Memorial>
+        <Memorial>3*2,6,6</Memorial>
+        <Memorial>9*7,63,63</Memorial>
+    </Memorials>
+</Lesson>

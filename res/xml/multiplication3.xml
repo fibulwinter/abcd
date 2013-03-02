@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lesson>
+    <Title>Multiplication 3</Title>
+    <Aspects>ANSWER,GROUP</Aspects>
+    <Shuffle/>
+    <Memorials>
+        <Memorial>3*3,9,9</Memorial>
+        <Memorial>4*6,24,24</Memorial>
+        <Memorial>8*8,64,64</Memorial>
+        <Memorial>3*6,18,18</Memorial>
+        <Memorial>4*4,16,16</Memorial>
+        <Memorial>6*7,42,42</Memorial>
+        <Memorial>4*7,28,28</Memorial>
+        <Memorial>6*4,24,24</Memorial>
+        <Memorial>3*4,12,12</Memorial>
+        <Memorial>4*8,32,32</Memorial>
+        <Memorial>7*6,42,42</Memorial>
+        <Memorial>7*4,28,28</Memorial>
+        <Memorial>3*8,24,24</Memorial>
+        <Memorial>8*3,24,24</Memorial>
+        <Memorial>6*8,48,48</Memorial>
+        <Memorial>7*8,56,56</Memorial>
+        <Memorial>3*7,21,21</Memorial>
+        <Memorial>8*6,48,48</Memorial>
+        <Memorial>4*3,12,12</Memorial>
+        <Memorial>8*7,56,56</Memorial>
+        <Memorial>7*3,21,21</Memorial>
+        <Memorial>8*4,32,32</Memorial>
+        <Memorial>7*7,49,49</Memorial>
+        <Memorial>6*3,18,18</Memorial>
+        <Memorial>6*6,36,36</Memorial>
+    </Memorials>
+</Lesson>

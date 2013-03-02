@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">abcd</string>
+    <string name="start">Start</string>
+    <string name="question_mode_label">Question mode</string>
+    <string name="answer_mode_label">Answer mode</string>
+    <string name="lesson_label">Lesson topic</string>
+</resources>

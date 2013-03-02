@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lesson>
+    <Title>Food</Title>
+    <Aspects>GROUP</Aspects>
+    <Memorials>
+        <Memorial>cake</Memorial>
+        <Memorial>pie</Memorial>
+        <Memorial>apple</Memorial>
+        <Memorial>banana</Memorial>
+        <Memorial>corn</Memorial>
+        <Memorial>juice</Memorial>
+        <Memorial>meat</Memorial>
+        <Memorial>bean</Memorial>
+        <Memorial>bread</Memorial>
+        <Memorial>grape</Memorial>
+        <Memorial>jam</Memorial>
+        <Memorial>butter</Memorial>
+        <Memorial>cherry</Memorial>
+        <Memorial>cracker</Memorial>
+        <Memorial>pancake</Memorial>
+        <Memorial>pear</Memorial>
+        <Memorial>popcorn</Memorial>
+        <Memorial>sugar</Memorial>
+        <Memorial>cream</Memorial>
+        <Memorial>honey</Memorial>
+        <Memorial>lettuce</Memorial>
+    </Memorials>
+</Lesson>

@@ -1,0 +1,6 @@
+<resources>
+    <color name="unknown">#888888</color>
+    <color name="learning">#ffffff00</color>
+    <color name="mastered">#ff33cc00</color>
+    <color name="red">#f00</color>
+</resources>
